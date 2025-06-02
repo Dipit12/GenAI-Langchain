@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="108354ca-b909-4c11-83a0-b34588b1febd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/EmbeddingModel/CosineSimilarity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/EmbeddingModel/HF_Embedding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/EmbeddingModel/HF_Langchain.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Models/ChatModels/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Models/ChatModels/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Models/EmbeddingModel/.env" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Models/LLMs/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Models/LLMs/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/EmbeddingModel/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Models/EmbeddingModel/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +37,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.CosineSimilarity.executor": "Run",
+    "Python.HF_Embedding.executor": "Run",
+    "Python.HF_Langchain.executor": "Run",
     "Python.main.executor": "Run",
     "Python.main2.executor": "Run",
     "Python.main3.executor": "Run",
