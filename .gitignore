@@ -1,0 +1,4 @@
+Models/EmbeddingModel/.env
+Models/ChatModels/.env
+Models/LLMs/.env
+
