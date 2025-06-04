@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="108354ca-b909-4c11-83a0-b34588b1febd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Models/EmbeddingModel/CosineSimilarity.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Models/EmbeddingModel/HF_Embedding.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Models/EmbeddingModel/HF_Langchain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prompts/chatBot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prompts/dynamicPrompt2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prompts/dynamic_prompts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prompts/messages.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prompts/streamlit_prompt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prompts/template.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Models/EmbeddingModel/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Models/EmbeddingModel/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +42,9 @@
     "Python.CosineSimilarity.executor": "Run",
     "Python.HF_Embedding.executor": "Run",
     "Python.HF_Langchain.executor": "Run",
+    "Python.chatBot.executor": "Run",
+    "Python.dynamicPrompt2.executor": "Run",
+    "Python.dynamic_prompts.executor": "Run",
     "Python.main.executor": "Run",
     "Python.main2.executor": "Run",
     "Python.main3.executor": "Run",
