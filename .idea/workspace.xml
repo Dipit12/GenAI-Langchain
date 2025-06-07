@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="108354ca-b909-4c11-83a0-b34588b1febd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Prompts/chatBot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prompts/dynamicPrompt2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prompts/dynamic_prompts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prompts/messages.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prompts/streamlit_prompt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prompts/template.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OuputParsers/jsonoutputparser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OuputParsers/pydanticOutputParser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OuputParsers/strOutputParser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OuputParsers/strOutputParser1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OuputParsers/structuredOutputParsers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,15 +44,30 @@
     "Python.chatBot.executor": "Run",
     "Python.dynamicPrompt2.executor": "Run",
     "Python.dynamic_prompts.executor": "Run",
+    "Python.jsonoutputparser.executor": "Run",
     "Python.main.executor": "Run",
     "Python.main2.executor": "Run",
     "Python.main3.executor": "Run",
+    "Python.messages.executor": "Run",
+    "Python.pydanticOutputParser.executor": "Run",
+    "Python.pydantic_demo.executor": "Run",
+    "Python.strOutputParser.executor": "Run",
+    "Python.strOutputParser1.executor": "Run",
+    "Python.structuredOutputParsers.executor": "Run",
+    "Python.typedict_demo.executor": "Run",
+    "Python.with_structured_output_pydantic.executor": "Run",
+    "Python.with_structured_output_typedict.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/dipitmadan/Desktop/GenAI-Langchain/OuputParsers"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/OuputParsers" />
+      <recent name="$PROJECT_DIR$/StructuredOutput" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Models/EmbeddingModel" />
