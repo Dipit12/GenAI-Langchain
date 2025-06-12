@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="108354ca-b909-4c11-83a0-b34588b1febd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/OuputParsers/jsonoutputparser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OuputParsers/pydanticOutputParser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OuputParsers/strOutputParser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OuputParsers/strOutputParser1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OuputParsers/structuredOutputParsers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DocumentLoaders/CSVLoader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DocumentLoaders/PDFLoader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DocumentLoaders/SVMData.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DocumentLoaders/concept2_details.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DocumentLoaders/textLoader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DocumentLoaders/webPageLoader.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,6 +28,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -41,7 +45,9 @@
     "Python.CosineSimilarity.executor": "Run",
     "Python.HF_Embedding.executor": "Run",
     "Python.HF_Langchain.executor": "Run",
+    "Python.PDFLoader.executor": "Run",
     "Python.chatBot.executor": "Run",
+    "Python.conditionalChains.executor": "Run",
     "Python.dynamicPrompt2.executor": "Run",
     "Python.dynamic_prompts.executor": "Run",
     "Python.jsonoutputparser.executor": "Run",
@@ -49,26 +55,34 @@
     "Python.main2.executor": "Run",
     "Python.main3.executor": "Run",
     "Python.messages.executor": "Run",
+    "Python.parallelChain.executor": "Run",
     "Python.pydanticOutputParser.executor": "Run",
     "Python.pydantic_demo.executor": "Run",
+    "Python.sequentialChain.executor": "Run",
+    "Python.simpleChain.executor": "Run",
     "Python.strOutputParser.executor": "Run",
     "Python.strOutputParser1.executor": "Run",
     "Python.structuredOutputParsers.executor": "Run",
+    "Python.textLoader.executor": "Run",
     "Python.typedict_demo.executor": "Run",
+    "Python.webPageLoader.executor": "Run",
     "Python.with_structured_output_pydantic.executor": "Run",
     "Python.with_structured_output_typedict.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/dipitmadan/Desktop/GenAI-Langchain/OuputParsers"
+    "last_opened_file_path": "/Users/dipitmadan/Desktop/GenAI-Langchain/DocumentLoaders"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/DocumentLoaders" />
+      <recent name="$PROJECT_DIR$/Chains" />
       <recent name="$PROJECT_DIR$/OuputParsers" />
       <recent name="$PROJECT_DIR$/StructuredOutput" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/DocumentLoaders" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Models/EmbeddingModel" />
       <recent name="$PROJECT_DIR$/Models" />
@@ -94,5 +108,16 @@
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName=".env" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
